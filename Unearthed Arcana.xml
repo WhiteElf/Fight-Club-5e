@@ -7,9 +7,9 @@
     <proficiency>Constitution, Intelligence, Arcana, History, Investigation, Medicine, Nature, Perception,Sleight	of Hand</proficiency>
     <spellAbility>Intelligence</spellAbility>
     <numSkills>2</numSkills>
-
+	
     <autolevel level="1">
-			<feature optional="YES">
+	  <feature optional="YES">
         <name>Starting Artificer</name>
         <text>As	an	artificer,	you	gain the	following	class	features.</text>
         <text>Armor: Light	armor,	medium	armor,	shields</text>
@@ -25,7 +25,7 @@
       </feature>
     </autolevel>
     <autolevel level="1">
-			<slots>2, 2</slots>
+	  <slots>2, 2</slots>
     </autolevel>
     <autolevel level="1">
       <feature>
